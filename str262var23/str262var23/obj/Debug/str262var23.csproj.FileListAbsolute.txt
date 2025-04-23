@@ -1,0 +1,7 @@
+C:\Users\Danii\source\repos\str262var23\str262var23\bin\Debug\str262var23.exe.config
+C:\Users\Danii\source\repos\str262var23\str262var23\bin\Debug\str262var23.exe
+C:\Users\Danii\source\repos\str262var23\str262var23\bin\Debug\str262var23.pdb
+C:\Users\Danii\source\repos\str262var23\str262var23\obj\Debug\str262var23.csproj.AssemblyReference.cache
+C:\Users\Danii\source\repos\str262var23\str262var23\obj\Debug\str262var23.csproj.CoreCompileInputs.cache
+C:\Users\Danii\source\repos\str262var23\str262var23\obj\Debug\str262var23.exe
+C:\Users\Danii\source\repos\str262var23\str262var23\obj\Debug\str262var23.pdb
